@@ -29,7 +29,7 @@ Resources:
           cd /var/www/html
           chmod -R 777 /var/www/html
           dnf install wget -y
-          wget https://raw.githubusercontent.com/nimcez/my-project1-kittens-carousel-static-website-ec2/static-web/index.html
+          wget https://raw.githubusercontent.com/nimcez/my-project1-kittens-carousel-static-website-ec2/main/static-web/index.html
           wget https://raw.githubusercontent.com/nimcez/my-project1-kittens-carousel-static-website-ec2/main/static-web/cat0.jpg
           wget https://raw.githubusercontent.com/nimcez/my-project1-kittens-carousel-static-website-ec2/main/static-web/cat1.jpg
           wget https://raw.githubusercontent.com/nimcez/my-project1-kittens-carousel-static-website-ec2/main/static-web/cat2.jpg
